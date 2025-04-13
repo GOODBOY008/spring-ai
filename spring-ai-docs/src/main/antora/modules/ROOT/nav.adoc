@@ -12,6 +12,7 @@
 *** xref:api/chat/azure-openai-chat.adoc[Azure OpenAI]
 **** xref:api/chat/functions/azure-open-ai-chat-functions.adoc[Azure OpenAI Function Calling]
 *** xref:api/chat/deepseek-chat.adoc[DeepSeek AI]
+*** xref:api/chat/dmr-chat.adoc[Docker Model Runner]
 *** xref:api/chat/google-vertexai.adoc[Google VertexAI]
 **** xref:api/chat/vertexai-gemini-chat.adoc[VertexAI Gemini]
 *** xref:api/chat/groq-chat.adoc[Groq]
@@ -73,6 +74,7 @@
 ** xref:api/vectordbs/azure-cosmos-db.adoc[]
 ** xref:api/vectordbs/apache-cassandra.adoc[]
 ** xref:api/vectordbs/chroma.adoc[]
+** xref:api/vectordbs/couchbase.adoc[]
 ** xref:api/vectordbs/elasticsearch.adoc[]
 ** xref:api/vectordbs/gemfire.adoc[GemFire]
 ** xref:api/vectordbs/mariadb.adoc[]
@@ -112,5 +114,4 @@
 
 * xref:contribution-guidelines.adoc[Contribution Guidelines]
 
-* Appendices
-** xref:upgrade-notes.adoc[]
+* xref:upgrade-notes.adoc[]

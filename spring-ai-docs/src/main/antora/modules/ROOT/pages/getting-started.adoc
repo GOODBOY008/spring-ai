@@ -5,7 +5,7 @@ This section offers jumping off points for how to get started using Spring AI.
 
 You should follow the steps in each of the following sections according to your needs.
 
-NOTE: Spring AI supports Spring Boot 3.2.x and 3.3.x
+NOTE: Spring AI supports Spring Boot 3.4.x.  When Spring Boot 3.5.x is released, we will support that as well.
 
 [[spring-initializr]]
 == Spring Initializr
@@ -34,14 +34,6 @@ Maven::
 [source,xml,indent=0,subs="verbatim,quotes"]
 ----
   <repositories>
-    <repository>
-      <id>spring-milestones</id>
-      <name>Spring Milestones</name>
-      <url>https://repo.spring.io/milestone</url>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-    </repository>
     <repository>
       <id>spring-snapshots</id>
       <name>Spring Snapshots</name>
